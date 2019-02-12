@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Locator</string>
+    <string-array name="intervals_array">
+        <item>1 min</item>
+        <item>2 mins</item>
+        <item>3 mins</item>
+        <item>4 mins</item>
+        <item>5 mins</item>
+
+    </string-array>
+</resources>

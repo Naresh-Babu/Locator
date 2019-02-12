@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="START">0</integer>
+    <integer name="LOCATION">1</integer>
+    <integer name="MODE">2</integer>
+    <integer name="RUNNING">3</integer>
+    <integer name="PAUSED">4</integer>
+    <integer name="STOPPED">5</integer>
+</resources>
